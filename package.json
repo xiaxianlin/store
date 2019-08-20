@@ -1,6 +1,6 @@
 {
-    "name": "@xiaxianlin/react-component-template",
-    "version": "0.0.2",
+    "name": "@xiaxianlin/store",
+    "version": "0.0.1",
     "description": " React Component Template",
     "main": "lib/index.js",
     "module": "es/index.js",
@@ -41,7 +41,6 @@
         "typescript": "^3.5.3"
     },
     "author": "xiaxianlin",
-    "homepage": "",
     "license": "MIT",
     "repository": "",
     "keywords": [
